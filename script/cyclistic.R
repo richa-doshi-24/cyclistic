@@ -21,7 +21,7 @@ dec_2021_tripdata <- read.csv('202112-divvy-tripdata.csv')
 jan_2022_tripdata <-  read.csv('202201-divvy-tripdata.csv')
 feb_2022_tripdata <-  read.csv('202202-divvy-tripdata.csv')
 mar_2022_tripdata <-  read.csv('202203-divvy-tripdata.csv')
-apr_2022_tripdata <-  read.csv('202204-divvy-tripdata.csv')
+
 
 View(apr_2021_tripdata)
 str(dec_2021_tripdata)
